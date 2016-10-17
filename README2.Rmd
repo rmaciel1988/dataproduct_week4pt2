@@ -6,8 +6,8 @@ ____
 ## Part0: Regression Models Course Project  
 > **Context**  
 You work for Motor Trend, a magazine about the automobile industry. Looking at a data set of a collection of cars, they are interested in exploring the relationship between a set of variables and miles per gallon (MPG) (outcome). They are particularly interested in the following two questions:
-> * âIs an automatic or manual transmission better for MPG
-> * âQuantifying how different is the MPG between automatic and manual transmissions?â
+> * “Is an automatic or manual transmission better for MPG
+> * “Quantifying how different is the MPG between automatic and manual transmissions?”
 
 > **Question**  
 Take the `mtcars` data set and write up an analysis to answer their question using regression models and exploratory data analyses.
@@ -25,8 +25,8 @@ Here the difference of the MPG between automatic and manual transmissions is foc
 the `mtcars` dataset in car package is taken as the data source, 
 and techniques about regression models is used to solve the following two questions:
 
-* âIs an automatic or manual transmission better for MPGâ
-*  âQuantifying how different is the MPG between automatic and manual transmissions?â
+* “Is an automatic or manual transmission better for MPG”
+*  “Quantifying how different is the MPG between automatic and manual transmissions?”
 
 
 ____
@@ -62,6 +62,5 @@ ____
 * It must be on github
 * It must contained some embedded R code that gets run when slidifying the document
 
-Done and deployed in Github:
-[part2_devdataprod-slidify](http://swhgoon.github.io/devdataprod-cp/part2_devdataprod-slidify)
+
 
