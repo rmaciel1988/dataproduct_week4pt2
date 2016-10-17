@@ -65,10 +65,10 @@ shinyUI(
              ),
              tabPanel("SourceCode",
                       p("part1_devdataprod-shiny"),
-                      a("https://github.com/swhgoon/devdataprod-cp/tree/master/part1_devdataprod-shiny")
+                      a("https://github.com/rmaciel1988/dataproduct_week4pt2/tree/master/part1_devdataprod-shiny")
              ),
              tabPanel("Special",
-                      a("http://swhgoon.github.io/devdataprod-cp/part0_regmods-mtcars.html"),
+                      a("https://github.com/rmaciel1988/dataproduct_week4pt2/tree/master/part0_regmods-mtcars/part0_regmods-mtcars.html"),
                       hr(),
                       tags$iframe(src="part0_regmods-mtcars.html", 
                                   width="100%", height=600, frameborder=0, 

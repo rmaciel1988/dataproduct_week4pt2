@@ -14,20 +14,20 @@ knit        : slidify::knit2slides
 ## Deployed App
 
 ### Part0: Regression Models Course Project  
-- URL: *http://swhgoon.github.io/devdataprod-cp/part0_regmods-mtcars.html*
+- URL: *https://github.com/rmaciel1988/dataproduct_week4pt2/tree/master/part0_regmods-mtcars/part0_regmods-mtcars.html*
 - Difference of the MPG between automatic and manual transmissions is focused in Part0.
 
 ### Part1: Shiny Application  
-- URL: *https://swhgoon.shinyapps.io/part1_devdataprod-shiny/*
+- URL: *https://rmaciel1988.shinyapps.io/part1_devdataprod-shiny/*
 - A shiny-App shows the relationship between variables and miles per gallon (MPG).
 
 ### Part2: Reproducible Pitch Presentation  
-- URL: *http://swhgoon.github.io/devdataprod-cp/part2_devdataprod-slidify*
+- URL: *https://github.com/rmaciel1988/dataproduct_week4pt2/tree/master/part2_devdataprod-slidify*
 
 ### Get all SourceCode @Github:
 
 ```
-git clone https://github.com/swhgoon/devdataprod-cp.git
+git clone https://github.com/rmaciel1988/dataproduct_week4pt2.git
 ```
 
 --- .class #id 
